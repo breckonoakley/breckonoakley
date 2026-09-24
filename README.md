@@ -6,12 +6,10 @@
 > **Most of my professional work (daily contributions) lives on my work account, `@breckonoakley_church`, in private repositories that aren't publicly visible.**
 > This profile mostly contains coursework and personal projects.
 
-### 🛠️ Tech I work with
+### Tech I work with
 **Languages:** C++ · C# · Java · Python · C · SQL · JavaScript
-**Frameworks & Tools:** Qt · ASP.NET Core · Blazor · Entity Framework Core · Flask · CMake · Git
-**Databases:** MySQL / MariaDB · SQLite
 
-### 🚀 Featured Projects
+### Featured Projects
 | Project | Description | Stack |
 |---|---|---|
 | [**Learning Management System**](https://github.com/breckonoakley/learning-management-system) | Canvas-style LMS with student, professor, and admin portals, weighted grading, and GPA | C# · ASP.NET Core MVC · EF Core · MySQL |
@@ -21,5 +19,5 @@
 | [**Golf Score Tracker**](https://github.com/breckonoakley/golf-score-tracker) | Full-stack round tracker with a REST API and course lookup | Python · Flask · SQLite |
 | [**Cache Simulator**](https://github.com/breckonoakley/cache-simulator) | Sweeps cache designs to find the best hit rate for the hardware cost | Java |
 
-### 📫 Connect
+### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-breckon--oakley-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breckon-oakley/)
