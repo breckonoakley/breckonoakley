@@ -2,6 +2,10 @@
 
 Computer Science student at the **University of Utah**, building desktop apps, full-stack web apps, and systems software.
 
+> [!NOTE]
+> **Most of my professional work lives on my work account, [@breckonoakley_church](https://github.com/breckonoakley_church), in private repositories.**
+> This profile mostly contains coursework and personal projects.
+
 ### 🛠️ Tech I work with
 **Languages:** C++ · C# · Java · Python · C · SQL · JavaScript
 **Frameworks & Tools:** Qt · ASP.NET Core · Blazor · Entity Framework Core · Flask · CMake · Git
