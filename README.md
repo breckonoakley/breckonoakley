@@ -3,7 +3,7 @@
 Computer Science student at the **University of Utah**, building desktop apps, full-stack web apps, and systems software.
 
 > [!NOTE]
-> **Most of my professional work (daily contributions) lives on my work account, [@breckonoakley_church](https://github.com/breckonoakley_church), in private repositories.**
+> **Most of my professional work (daily contributions) lives on my work account, `@breckonoakley_church`, in private repositories that aren't publicly visible.**
 > This profile mostly contains coursework and personal projects.
 
 ### 🛠️ Tech I work with
