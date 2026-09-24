@@ -1,6 +1,6 @@
 # Hi, I'm Breckon 👋
 
-Computer Science student at the **University of Utah**, building desktop apps, full-stack web apps, and systems software.
+**Junior Software Engineer @ ICS-ENG** and Computer Science student at the **University of Utah**, building desktop apps, full-stack web apps, and systems software.
 
 > [!NOTE]
 > **Most of my professional work (daily contributions) lives on my work account, `@breckonoakley_church`, in private repositories that aren't publicly visible.**
@@ -22,4 +22,4 @@ Computer Science student at the **University of Utah**, building desktop apps, f
 | [**Cache Simulator**](https://github.com/breckonoakley/cache-simulator) | Sweeps cache designs to find the best hit rate for the hardware cost | Java |
 
 ### 📫 Connect
-<!-- Add your LinkedIn: [LinkedIn](https://linkedin.com/in/your-handle) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-breckon--oakley-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breckon-oakley/)
