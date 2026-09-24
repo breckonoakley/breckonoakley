@@ -1,4 +1,4 @@
-# Hi, I'm Breckon 👋
+# Hi, I'm Breckon 
 
 **Junior Software Engineer @ ICS-ENG** and Computer Science student at the **University of Utah**, building desktop apps, full-stack web apps, and systems software.
 
